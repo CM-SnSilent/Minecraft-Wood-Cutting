@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "#minecraft:copper22/copper_bulb",
+    "result": {
+        "id": "minecraft:copper_bulb",
+        "count": 1
+    }
+}

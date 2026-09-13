@@ -1,0 +1,10 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "tag": "minecraft:copper/cut_copper"
+    },
+    "result": {
+        "id": "minecraft:cut_copper",
+        "count": 1
+    }
+}

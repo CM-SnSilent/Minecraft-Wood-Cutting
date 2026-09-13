@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"exposed_copper","required":false},
+        {"id":"weathered_copper","required":false},
+        {"id":"oxidized_copper","required":false},
+        {"id":"waxed_copper_block","required":false},
+        {"id":"waxed_exposed_copper","required":false},
+        {"id":"waxed_weathered_copper","required":false},
+        {"id":"waxed_oxidized_copper","required":false}
+    ]
+}

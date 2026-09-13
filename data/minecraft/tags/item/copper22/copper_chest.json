@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"exposed_copper_chest","required":false},
+        {"id":"weathered_copper_chest","required":false},
+        {"id":"oxidized_copper_chest","required":false},
+        {"id":"waxed_copper_chest","required":false},
+        {"id":"waxed_exposed_copper_chest","required":false},
+        {"id":"waxed_weathered_copper_chest","required":false},
+        {"id":"waxed_oxidized_copper_chest","required":false}
+    ]
+}
