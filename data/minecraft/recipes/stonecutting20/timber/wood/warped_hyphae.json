@@ -1,0 +1,10 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "item": "minecraft:warped_hyphae"
+    },
+    "result": {
+        "id": "minecraft:stripped_warped_wood",
+        "count": 1
+    }
+}

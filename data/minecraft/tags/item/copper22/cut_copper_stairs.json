@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"exposed_cut_copper_stairs","required":false},
+        {"id":"weathered_cut_copper_stairs","required":false},
+        {"id":"oxidized_cut_copper_stairs","required":false},
+        {"id":"waxed_cut_copper_stairs","required":false},
+        {"id":"waxed_exposed_cut_copper_stairs","required":false},
+        {"id":"waxed_weathered_cut_copper_stairs","required":false},
+        {"id":"waxed_oxidized_cut_copper_stairs","required":false}
+    ]
+}

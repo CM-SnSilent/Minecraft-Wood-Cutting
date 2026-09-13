@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "#minecraft:copper22/chiseled_copper",
+    "result": {
+        "id": "minecraft:chiseled_copper",
+        "count": 1
+    }
+}

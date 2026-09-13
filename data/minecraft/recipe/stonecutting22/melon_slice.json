@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": ["melon"],
+    "result": {
+        "id": "melon_slice",
+        "count": 9
+    }
+}

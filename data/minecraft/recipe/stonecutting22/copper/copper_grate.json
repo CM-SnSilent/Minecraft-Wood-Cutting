@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "#minecraft:copper22/copper_grate",
+    "result": {
+        "id": "minecraft:copper_grate",
+        "count": 1
+    }
+}

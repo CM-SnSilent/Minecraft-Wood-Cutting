@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "#minecraft:copper22/copper_lantern",
+    "result": {
+        "id": "minecraft:copper_lantern",
+        "count": 1
+    }
+}

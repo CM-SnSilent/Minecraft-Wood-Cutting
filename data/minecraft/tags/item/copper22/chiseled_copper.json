@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"exposed_chiseled_copper","required":false},
+        {"id":"weathered_chiseled_copper","required":false},
+        {"id":"oxidized_chiseled_copper","required":false},
+        {"id":"waxed_chiseled_copper","required":false},
+        {"id":"waxed_exposed_chiseled_copper","required":false},
+        {"id":"waxed_weathered_chiseled_copper","required":false},
+        {"id":"waxed_oxidized_chiseled_copper","required":false}
+    ]
+}
